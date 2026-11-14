@@ -8,17 +8,11 @@
 
 ## 👋 ¿De qué va esto?
 
-Soy Eliut, estudiante de Ingeniería en Tecnologías de la Información e Innovación Digital. 
-Aquí voy subiendo mis ejercicios de Dart, uno por archivo, para agarrar bien el lenguaje antes de entrarle a Flutter.
+# Soy Eliut actualmente estudio Desarrollo de software y este repositorio es para aprender las bases del lenguaje Dart para despues mudar a flutter para desarrollo movil, espero algunos de mis ejercicios les sirva y espero puedan entender mi codigo y apoyarlos a aprender
 
 ## 🧠 Lo que voy practicando
+# Los fundamentos del lenguaje sobre tipos de datos, variables, POO, entre otros temas del lenguaje
 
-- [x] Variables y tipos de datos
-- [ ] Funciones
-- [ ] Colecciones (List, Set, Map)
-- [ ] Clases y POO
-- [ ] Null safety
-- [ ] async / await
 
 ## ▶️ Cómo correr los ejercicios
 
