@@ -8,10 +8,10 @@
 
 ## 👋 ¿De qué va esto?
 
-### Soy Eliut actualmente estudio Desarrollo de software y este repositorio es para aprender las bases del lenguaje Dart para despues mudar a flutter para desarrollo movil, espero algunos de mis ejercicios les sirva y espero puedan entender mi codigo y apoyarlos a aprender
+#### Soy Eliut actualmente estudio Desarrollo de software y este repositorio es para aprender las bases del lenguaje Dart para despues mudar a flutter para desarrollo movil, espero algunos de mis ejercicios les sirva y espero puedan entender mi codigo y apoyarlos a aprender
 
 ## 🧠 Lo que voy practicando
-### Los fundamentos del lenguaje sobre tipos de datos, variables, POO, entre otros temas del lenguaje
+#### Los fundamentos del lenguaje sobre tipos de datos, variables, POO, entre otros temas del lenguaje
 
 
 ## ▶️ Cómo correr los ejercicios
@@ -19,6 +19,7 @@
 ```bash
 dart run nombre_del_archivo.dart
 ```
+##### En la carpeta "data" encontraras una guia para aprenderlo progresivamente 
 
 ## 🗺️ Siguiente parada
 
